@@ -1,0 +1,11 @@
+
+# ==== PROJECT DEPENDENCIES ====  
+
+streamlit                 # Web application interface
+pypdf                     # PDF text extraction
+langchain-text-splitters  # Splitting PDF text into chunks
+sentence-transformers     # Embeddings and Cross-Encoder reranking
+faiss-cpu                 # Semantic vector search
+rank-bm25                 # Keyword-based retrieval
+numpy                     # Numerical operations
+google-genai              # Gemini API integration
