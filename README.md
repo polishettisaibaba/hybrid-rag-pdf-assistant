@@ -1,6 +1,19 @@
 
 # Hybrid RAG PDF Question Answering System
 
+## 🚀 Live Application
+
+**Try the AI PDF Research Assistant:**
+
+[Launch Live RAG Application](https://hybrid-rag-pdf-assistant.streamlit.app/)
+
+**Explore the source code:**
+
+[GitHub Repository](https://github.com/polishettisaibaba/hybrid-rag-pdf-assistant)
+
+---
+
+
 ## Project Overview
 
 This project is an end-to-end Retrieval-Augmented Generation (RAG) application built using Python and Streamlit.
